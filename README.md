@@ -18,7 +18,9 @@ Besides, I enjoy listening to music, not about melody; I enjoy watching movies, 
 <br/>
 
 ***Technology stack and development tools:***
+
 <br/>
+
 <code><img height="20" src="./java.png"></code>
 <code><img height="20" src="./Go语言.png"></code>
 <code><img height="20" src="./Python.png"></code>
@@ -27,4 +29,4 @@ Besides, I enjoy listening to music, not about melody; I enjoy watching movies, 
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./Idea.png"></code>
 
-
+----------
