@@ -16,7 +16,8 @@
 - 💬 about me: Ten, engineer. I like the number Ten, which is both my birthday month and the homophonic sound of the last word in my name.
 Besides, I enjoy listening to music, not about melody; I enjoy watching movies, especially suspense and puzzle solving, and I am full of thirst for knowledge and wisdom
 <br/>
-Technology stack and development tools:
+
+***Technology stack and development tools:***
 <br/>
 <code><img height="20" src="./java.png"></code>
 <code><img height="20" src="./Go语言.png"></code>
