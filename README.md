@@ -1,9 +1,9 @@
-![code](https://github.com/Haha8023/Haha8023/assets/58458992/a039332b-b8db-48e3-9957-5c85ba4129f4)### Hi there I'm Ten a backend Java engineer 👋
+### Hi there I'm Ten a backend Java engineer 👋
 
 
 ***活在世上，无非想要明白些道理，遇到些有趣的事，倘若如愿这一生就算成功***
 
-
+  <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Haha8023" /> </div>
 
 - 🔭 I’m currently working on ...
