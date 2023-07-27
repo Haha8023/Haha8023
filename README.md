@@ -4,7 +4,7 @@
 ***活在世上，无非想要明白些道理，遇到些有趣的事，倘若如愿这一生就算成功***
 
   
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Haha8023" /> 
+
   <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 
 - 🔭 I’m currently working on ...
