@@ -1,7 +1,7 @@
 ### Hi I'm Ten a backend Java engineer 👋
 
 
-***活在世上，无非想要明白些道理，遇到些有趣的事，倘若如愿这一生就算成功***
+***Living in this world is all about understanding some principles, encountering interesting things, and if you wish, your life will be considered successful***
 
   
 
