@@ -28,3 +28,5 @@ Besides, I enjoy listening to music, not about melody; I enjoy watching movies, 
 <code><img height="20" src="./Idea.png"></code>
 
 ----------
+
+> I'm looking for a job recently, if you think I'm pretty good, you can give me a chance. 😋
