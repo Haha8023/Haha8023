@@ -1,4 +1,4 @@
-### Hi I'm Ten a Java engineer 👋  Chinese introduction please move 👉 [README-CN](./README-CN.md)
+### Hi I'm Ten a Java engineer 👋  中文自述请点击这里 👉 [README-CN](./README-CN.md)
 
 
 ***Living in this world is all about understanding some principles, encountering interesting things, and if you wish, your life will be considered successful***
