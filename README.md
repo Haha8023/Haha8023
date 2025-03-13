@@ -29,4 +29,4 @@ Besides, I enjoy listening to music, not about melody; I enjoy watching movies, 
 
 ----------
 
-> I'm looking for a job recently, if you think I'm pretty good, you can give me a chance. 😋
+
